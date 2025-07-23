@@ -1,0 +1,128 @@
+/* *{
+    background-color: rgb(102, 255, 0);
+    align-items: center;
+} */
+ .home{
+    background-color: chocolate;
+ }
+.content-box{
+    
+    margin: 50px auto;
+    padding: 2px;
+    /* border: 1px solid; */
+    text-align: center;
+    width:350px;
+    margin-top: 20%;
+    color:black;
+    font-size: larger;  
+}
+#emailnum{
+    border:3px solid;
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+#password{
+    border:3px solid;
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    
+}
+
+#button{
+   border: 3px solid;
+   background-color: red;
+   width: 80px;
+   height: 25px;
+   /* color: aqua; */
+   
+}
+#button:hover{
+background-color: aqua;
+color: brown;
+}
+h1{
+    background-color: crimson;
+}
+h1:hover{
+    background-color: blueviolet;
+    color: rgba(183, 214, 5, 0.986);
+}
+img{
+    margin-left: 15%;
+}
+.bio{
+    font-size:larger;
+}
+#foll{
+    background-color: rgb(108, 111, 233);
+    width: 100px;
+    height: 35px;
+    border: 2px solid;
+    border-radius: 5px;
+   
+}
+#mess{
+    background-color: rgb(108, 111, 233);
+     width: 100px;
+    height: 35px;
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+#bloc{
+    background-color: rgb(108, 111, 233);
+     width: 100px;
+    height: 35px;
+    border: 2px solid;
+    border-radius: 5px;
+      margin-left: 20px;
+}
+hr{
+   height: 4px;
+   background-color: black;
+}
+#foll:hover{
+    background-color: rgb(235, 92, 9);
+}
+#mess:hover{
+    background-color: rgb(235, 92, 9);
+}
+#bloc:hover{
+    background-color: rgb(235, 92, 9);
+   
+}
+#name,#num,#mail{
+    border: 3px solid;
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+   font-size: medium;
+}
+.content-box1{
+    
+    margin: 50px auto;
+    padding: 2px;
+    /* border: 1px solid; */
+    text-align: center;
+    width:350px;
+    /* margin-top: 5px; */
+    color:black;
+    font-size: larger;  
+}
+#enter{
+    width: 100px;
+    height: 35px;
+    background-color: indianred;
+    border-radius: 10px;
+   
+}
+#enter:hover{
+background-color: gold;
+
+}
